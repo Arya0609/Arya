@@ -1,4 +1,4 @@
-# TEECHNOEDGE SALES DATA ANALYSIS 
+# TECHNOEDGE SALES DATA ANALYSIS 
 
 ### Dashboard Link : https://app.powerbi.com/links/JUwi_MhoAu?ctid=03b7ec4d-37cd-45fc-9485-4b09b26e6726&pbi_source=linkShare
 
